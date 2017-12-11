@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 11 18:18:11 2017
-
-@author: noelg
-"""
 
 #PART 1 VISUALIZE FLAT FILE
 
