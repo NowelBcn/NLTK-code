@@ -13,6 +13,7 @@ def word_frequency (url):
     tokenizer = RegexpTokenizer('\w+')
     tokens = tokenizer.tokenize(text)
     words = []
+    
     for word in tokens:
         words.append(word.lower())
     sw = nltk.corpus.stopwords.words('english')
